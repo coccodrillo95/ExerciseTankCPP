@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "TankBattle (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TankBattle Win64 Debug Build",
+			"program": "L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\Binaries\\Win64\\TankBattle-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattle (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TankBattle Win64 DebugGame Build",
+			"program": "L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\Binaries\\Win64\\TankBattle-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattle (Development)",
+			"request": "launch",
+			"preLaunchTask": "TankBattle Win64 Development Build",
+			"program": "L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\Binaries\\Win64\\TankBattle.exe",
+			"args": [
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattle (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "TankBattle Win64 Shipping Build",
+			"program": "L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\Binaries\\Win64\\TankBattle-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattle (Test)",
+			"request": "launch",
+			"preLaunchTask": "TankBattle Win64 Test Build",
+			"program": "L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\Binaries\\Win64\\TankBattle-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattleEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TankBattleEditor Win64 Debug Build",
+			"program": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\TankBattle.uproject"
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattleEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TankBattleEditor Win64 DebugGame Build",
+			"program": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\TankBattle.uproject"
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TankBattleEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "TankBattleEditor Win64 Development Build",
+			"program": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\TankBattle.uproject"
+			],
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"L:\\Program\\Unrial\\EsercizioTankC++\\TankBattle\\TankBattle.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "L:\\Program\\GiochInUso\\unrealTurnament\\UE_4.22"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"L:/Program/Unrial/EsercizioTankC++/TankBattle/.vs": true,
+		"L:/Program/Unrial/EsercizioTankC++/TankBattle/.vscode": true,
+		"L:/Program/Unrial/EsercizioTankC++/TankBattle/Content": true,
+		"L:/Program/Unrial/EsercizioTankC++/TankBattle/Intermediate": true,
+		"L:/Program/Unrial/EsercizioTankC++/TankBattle/Saved": true
+	}
+}
